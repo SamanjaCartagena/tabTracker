@@ -1,4 +1,5 @@
 # client
+#All codes are inside a client folder
 
 > A Vue.js project
 
